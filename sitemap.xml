@@ -2,26 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://joneslab.org/index.html</loc>
-    <lastmod>2022-08-12</lastmod>
+    <lastmod>2023-04-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://joneslab.org/images/joneslab-logo.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/_0011037-editb.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/01-jones_lab-research.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/02_courtney%20jones%20lab%20-%20team%202.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/01-jones_lab-research_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/03__0010977-editb.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/02-jones_lab-team.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/04_380%20gfp-2x3.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/02-jones_lab-team_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/05_0011457b.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/03-jones_lab-research.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/03-jones_lab-research_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/04-jones_lab-research3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/04-jones_lab-research3_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/05-jones_lab-princess_margaret.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/05-jones_lab-princess_margaret_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://joneslab.org/images/_0011037-editb-crop-u657.jpg</image:loc>
@@ -30,10 +45,10 @@
       <image:loc>http://joneslab.org/images/_0011037-editb-crop-u657_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/02_courtney%20jones%20lab%20-%20team%202-crop-u865.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/jones%20lab%20team-crop-u865.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/02_courtney%20jones%20lab%20-%20team%202-crop-u865_2x.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/jones%20lab%20team-crop-u865_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://joneslab.org/images/03__0010977-editb-crop-u2486.jpg</image:loc>
@@ -144,19 +159,34 @@
       <image:loc>http://joneslab.org/images/mtt-edit-sq-2477x477_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/_0011037-editb1093x730.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/01-jones_lab-research1093x730.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/02_courtney%20jones%20lab%20-%20team%2021093x729.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/01-jones_lab-research1093x730_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/03__0010977-editb1093x730.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/02-jones_lab-team1093x728.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/04_380%20gfp-2x31093x729.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/02-jones_lab-team1093x728_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/05_0011457b1093x730.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/03-jones_lab-research1093x730.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/03-jones_lab-research1093x730_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/04-jones_lab-research31093x729.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/04-jones_lab-research31093x729_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/05-jones_lab-princess_margaret1093x730.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/05-jones_lab-princess_margaret1093x730_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://joneslab.org/images/_0011037-editb-crop-u6572.jpg</image:loc>
@@ -165,10 +195,10 @@
       <image:loc>http://joneslab.org/images/_0011037-editb-crop-u657_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/02_courtney%20jones%20lab%20-%20team%202-crop-u8652.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/jones%20lab%20team-crop-u8652.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/02_courtney%20jones%20lab%20-%20team%202-crop-u865_2x2.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/jones%20lab%20team-crop-u865_2x2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://joneslab.org/images/03__0010977-editb-crop-u24862.jpg</image:loc>
@@ -219,19 +249,34 @@
       <image:loc>http://joneslab.org/images/mtt-edit-sq-2310x310_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/_0011037-editb843x563.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/01-jones_lab-research843x563.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/02_courtney%20jones%20lab%20-%20team%202843x562.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/01-jones_lab-research843x563_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/03__0010977-editb843x563.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/02-jones_lab-team843x562.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/04_380%20gfp-2x3843x562.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/02-jones_lab-team843x562_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/05_0011457b843x563.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/03-jones_lab-research843x563.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/03-jones_lab-research843x563_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/04-jones_lab-research3843x562.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/04-jones_lab-research3843x562_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/05-jones_lab-princess_margaret843x563.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/05-jones_lab-princess_margaret843x563_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://joneslab.org/images/_0011037-editb-crop-u6573.jpg</image:loc>
@@ -240,10 +285,10 @@
       <image:loc>http://joneslab.org/images/_0011037-editb-crop-u657_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/02_courtney%20jones%20lab%20-%20team%202-crop-u8653.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/jones%20lab%20team-crop-u8653.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/02_courtney%20jones%20lab%20-%20team%202-crop-u865_2x3.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/jones%20lab%20team-crop-u865_2x3.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://joneslab.org/images/03__0010977-editb-crop-u24863.jpg</image:loc>
@@ -342,19 +387,34 @@
       <image:loc>http://joneslab.org/images/mtt-edit-sq-2250x250_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/_0011037-editb600x401.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/01-jones_lab-research600x401.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/02_courtney%20jones%20lab%20-%20team%202600x400.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/01-jones_lab-research600x401_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/03__0010977-editb600x401.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/02-jones_lab-team600x400.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/04_380%20gfp-2x3600x400.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/02-jones_lab-team600x400_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/05_0011457b600x400.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/03-jones_lab-research600x401.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/03-jones_lab-research600x401_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/04-jones_lab-research3600x400.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/04-jones_lab-research3600x400_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/05-jones_lab-princess_margaret600x400.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/05-jones_lab-princess_margaret600x400_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://joneslab.org/images/_0011037-editb-crop-u6574.jpg</image:loc>
@@ -363,10 +423,10 @@
       <image:loc>http://joneslab.org/images/_0011037-editb-crop-u657_2x4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/02_courtney%20jones%20lab%20-%20team%202-crop-u8654.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/jones%20lab%20team-crop-u8654.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/02_courtney%20jones%20lab%20-%20team%202-crop-u865_2x4.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/jones%20lab%20team-crop-u865_2x4.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://joneslab.org/images/03__0010977-editb-crop-u24864.jpg</image:loc>
@@ -435,19 +495,34 @@
       <image:loc>http://joneslab.org/images/mtt-edit-sq-2_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/_0011037-editb500x334.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/01-jones_lab-research500x334.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/02_courtney%20jones%20lab%20-%20team%202500x334.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/01-jones_lab-research500x334_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/03__0010977-editb500x334.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/02-jones_lab-team500x334.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/04_380%20gfp-2x3500x334.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/02-jones_lab-team500x334_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/05_0011457b500x334.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/03-jones_lab-research500x334.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/03-jones_lab-research500x334_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/04-jones_lab-research3500x334.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/04-jones_lab-research3500x334_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/05-jones_lab-princess_margaret500x334.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/05-jones_lab-princess_margaret500x334_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://joneslab.org/images/_0011037-editb-crop-u6575.jpg</image:loc>
@@ -456,10 +531,10 @@
       <image:loc>http://joneslab.org/images/_0011037-editb-crop-u657_2x5.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/02_courtney%20jones%20lab%20-%20team%202-crop-u8655.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/jones%20lab%20team-crop-u8655.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/02_courtney%20jones%20lab%20-%20team%202-crop-u865_2x5.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/jones%20lab%20team-crop-u865_2x5.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://joneslab.org/images/03__0010977-editb-crop-u24865.jpg</image:loc>
@@ -500,11 +575,17 @@
   </url>
   <url>
     <loc>http://joneslab.org/people.html</loc>
-    <lastmod>2022-08-12</lastmod>
+    <lastmod>2023-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://joneslab.org/images/joneslab-logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/jones_lab-people-221130-21920x592.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/jones_lab-people-221130-2_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://joneslab.org/images/twitter-logo-white.svg</image:loc>
@@ -534,12 +615,6 @@
       <image:loc>http://joneslab.org/images/courtney_jones-sq-web_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/jacob_berman-sq-web.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://joneslab.org/images/jacob_berman-sq-web_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://joneslab.org/images/vincent_rondeau-sq-web.jpg</image:loc>
     </image:image>
     <image:image>
@@ -552,10 +627,52 @@
       <image:loc>http://joneslab.org/images/charlotte_ling-sq-web_2x.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://joneslab.org/images/bowen_zhang-sq-web.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/bowen_zhang-sq-web_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://joneslab.org/images/cristiana_obrien-sq-web.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://joneslab.org/images/cristiana_obrien-sq-web_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/valentine_liu-sq-web.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/valentine_liu-sq-web_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/aarushi_gupta-sq-web.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/aarushi_gupta-sq-web_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/jacob_berman-sq-web.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/jacob_berman-sq-web_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/duhan_yendi-sq-web.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/duhan_yendi-sq-web_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/mary_shi-sq-web.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/mary_shi-sq-web_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/jill_flewelling-sq-web.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/jill_flewelling-sq-web_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://joneslab.org/images/_0011293b.jpg</image:loc>
@@ -582,10 +699,22 @@
       <image:loc>http://joneslab.org/images/jones%20lab%20-%20jacob_pipette1240x828_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/jones%20lab-jacob_pipette-mobile1000x668.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/_0011293b620x415.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/jones%20lab-jacob_pipette-mobile_2x.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/_0011293b620x415_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/_0011232b620x415.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/_0011232b620x415_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/jones%20lab%20-%20jacob_pipette1000x668.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/jones%20lab%20-%20jacob_pipette1000x668_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://joneslab.org/images/google%20scholar%20logo42x47.png</image:loc>
@@ -621,7 +750,7 @@
       <image:loc>http://joneslab.org/images/jones%20lab-jacob_pipette-mobile620x414.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/jones%20lab-jacob_pipette-mobile620x414_2x.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/jones%20lab-jacob_pipette-mobile_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://joneslab.org/images/jones%20lab-jacob_pipette-mobile500x334.jpg</image:loc>
@@ -632,7 +761,7 @@
   </url>
   <url>
     <loc>http://joneslab.org/publications.html</loc>
-    <lastmod>2022-08-12</lastmod>
+    <lastmod>2023-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -671,14 +800,17 @@
   </url>
   <url>
     <loc>http://joneslab.org/contact.html</loc>
-    <lastmod>2022-08-12</lastmod>
+    <lastmod>2023-04-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://joneslab.org/images/joneslab-logo.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/_0011424b.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/joneslab-221130-mars.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/joneslab-221130-mars_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://joneslab.org/images/jones-lab---icon-location.svg</image:loc>
@@ -690,10 +822,16 @@
       <image:loc>http://joneslab.org/images/jones-lab---icon-email.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/_0011424b612x917.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/joneslab-221130-mars612x917.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/_0011424b500x750.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/joneslab-221130-mars612x917_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/joneslab-221130-mars500x750.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joneslab.org/images/joneslab-221130-mars500x750_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>

@@ -1,24 +1,24 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="joneslab.org" resolutions="1x,2x" timestamp="1681137776057">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="joneslab.org" resolutions="1x,2x" timestamp="1681245084402">
   <folder name="css">
-    <file name="site_global.css" crc="439176373"/>
-    <file name="master_a-master.css" crc="3846134779" ref="1--oxidative-phosphorylation:people:contact:3--disease-pathogenesis:2--protein-modification:index:research:publications"/>
-    <file name="nomq_preview_master_a-master.css" crc="358479176" ref="1--oxidative-phosphorylation:people:contact:3--disease-pathogenesis:2--protein-modification:index:research:publications"/>
-    <file name="1--oxidative-phosphorylation.css" crc="528668695" ref="1--oxidative-phosphorylation"/>
-    <file name="nomq_1--oxidative-phosphorylation.css" crc="32153823" ref="1--oxidative-phosphorylation"/>
-    <file name="people.css" crc="4266537053" ref="people"/>
-    <file name="nomq_people.css" crc="4136060065" ref="people"/>
-    <file name="contact.css" crc="3885976992" ref="contact"/>
-    <file name="nomq_contact.css" crc="341737922" ref="contact"/>
-    <file name="3--disease-pathogenesis.css" crc="3837956144" ref="3--disease-pathogenesis"/>
-    <file name="nomq_3--disease-pathogenesis.css" crc="293562660" ref="3--disease-pathogenesis"/>
-    <file name="2--protein-modification.css" crc="4052673587" ref="2--protein-modification"/>
-    <file name="nomq_2--protein-modification.css" crc="3835592941" ref="2--protein-modification"/>
-    <file name="index.css" crc="248521623" ref="index"/>
-    <file name="nomq_index.css" crc="4073695982" ref="index"/>
-    <file name="research.css" crc="408778860" ref="research"/>
-    <file name="nomq_research.css" crc="4080135581" ref="research"/>
-    <file name="publications.css" crc="341044974" ref="publications"/>
-    <file name="nomq_publications.css" crc="4084137442" ref="publications"/>
+    <file name="site_global.css" crc="4229998319"/>
+    <file name="master_a-master.css" crc="4037404869" ref="research:2--protein-modification:people:1--oxidative-phosphorylation:3--disease-pathogenesis:publications:contact:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4063784488" ref="research:2--protein-modification:people:1--oxidative-phosphorylation:3--disease-pathogenesis:publications:contact:index"/>
+    <file name="research.css" crc="3826072456" ref="research"/>
+    <file name="nomq_research.css" crc="3833694015" ref="research"/>
+    <file name="2--protein-modification.css" crc="529440931" ref="2--protein-modification"/>
+    <file name="nomq_2--protein-modification.css" crc="3863249903" ref="2--protein-modification"/>
+    <file name="people.css" crc="3762202520" ref="people"/>
+    <file name="nomq_people.css" crc="3909681149" ref="people"/>
+    <file name="1--oxidative-phosphorylation.css" crc="469443055" ref="1--oxidative-phosphorylation"/>
+    <file name="nomq_1--oxidative-phosphorylation.css" crc="143138932" ref="1--oxidative-phosphorylation"/>
+    <file name="3--disease-pathogenesis.css" crc="413015326" ref="3--disease-pathogenesis"/>
+    <file name="nomq_3--disease-pathogenesis.css" crc="4243126439" ref="3--disease-pathogenesis"/>
+    <file name="publications.css" crc="347774828" ref="publications"/>
+    <file name="nomq_publications.css" crc="269332167" ref="publications"/>
+    <file name="contact.css" crc="4042750389" ref="contact"/>
+    <file name="nomq_contact.css" crc="4167296950" ref="contact"/>
+    <file name="index.css" crc="399522014" ref="index"/>
+    <file name="nomq_index.css" crc="118704565" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:people:publications:research:contact:1--oxidative-phosphorylation:2--protein-modification:3--disease-pathogenesis"/>
@@ -52,23 +52,6 @@
       <caption webpage="research" alt=""/>
     </file>
     <file name="joneslab-logo.svg" crc="414965902" seo="true" ref="index:people:publications:research:contact:1--oxidative-phosphorylation:2--protein-modification:3--disease-pathogenesis">
-      <caption webpage="1--oxidative-phosphorylation" alt=""/>
-      <caption webpage="1--oxidative-phosphorylation" alt=""/>
-      <caption webpage="1--oxidative-phosphorylation" alt=""/>
-      <caption webpage="1--oxidative-phosphorylation" alt=""/>
-      <caption webpage="1--oxidative-phosphorylation" alt=""/>
-      <caption webpage="3--disease-pathogenesis" alt=""/>
-      <caption webpage="3--disease-pathogenesis" alt=""/>
-      <caption webpage="3--disease-pathogenesis" alt=""/>
-      <caption webpage="3--disease-pathogenesis" alt=""/>
-      <caption webpage="3--disease-pathogenesis" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
@@ -76,27 +59,44 @@
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="2--protein-modification" alt=""/>
-      <caption webpage="2--protein-modification" alt=""/>
-      <caption webpage="2--protein-modification" alt=""/>
-      <caption webpage="2--protein-modification" alt=""/>
-      <caption webpage="2--protein-modification" alt=""/>
       <caption webpage="people" alt=""/>
       <caption webpage="people" alt=""/>
       <caption webpage="people" alt=""/>
       <caption webpage="people" alt=""/>
       <caption webpage="people" alt=""/>
+      <caption webpage="3--disease-pathogenesis" alt=""/>
+      <caption webpage="3--disease-pathogenesis" alt=""/>
+      <caption webpage="3--disease-pathogenesis" alt=""/>
+      <caption webpage="3--disease-pathogenesis" alt=""/>
+      <caption webpage="3--disease-pathogenesis" alt=""/>
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="1--oxidative-phosphorylation" alt=""/>
+      <caption webpage="1--oxidative-phosphorylation" alt=""/>
+      <caption webpage="1--oxidative-phosphorylation" alt=""/>
+      <caption webpage="1--oxidative-phosphorylation" alt=""/>
+      <caption webpage="1--oxidative-phosphorylation" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="2--protein-modification" alt=""/>
+      <caption webpage="2--protein-modification" alt=""/>
+      <caption webpage="2--protein-modification" alt=""/>
+      <caption webpage="2--protein-modification" alt=""/>
+      <caption webpage="2--protein-modification" alt=""/>
     </file>
     <file name="joneslab-logo_poster_.png" crc="3908147424" ref="index"/>
     <file name="01-jones_lab-research.jpg" crc="3877675706" seo="true" ref="index">
@@ -145,7 +145,7 @@
     <file name="03__0010977-editb-crop-u2486.jpg" crc="3971117147" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="03__0010977-editb-crop-u2486_2x.jpg" crc="480455761" seo="true" ref="index">
+    <file name="03__0010977-editb-crop-u2486_2x.jpg" crc="291194797" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="04_380 gfp-2x3-crop-u845.jpg" crc="33917306" seo="true" ref="index">
@@ -157,7 +157,7 @@
     <file name="05_0011457b-crop-u825.jpg" crc="4271910617" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="05_0011457b-crop-u825_2x.jpg" crc="417773820" seo="true" ref="index">
+    <file name="05_0011457b-crop-u825_2x.jpg" crc="131134164" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
@@ -326,7 +326,7 @@
     <file name="03__0010977-editb-crop-u24862.jpg" crc="308972835" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="03__0010977-editb-crop-u2486_2x2.jpg" crc="89316298" seo="true" ref="index">
+    <file name="03__0010977-editb-crop-u2486_2x2.jpg" crc="43691650" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="04_380 gfp-2x3-crop-u8452.jpg" crc="4134891173" seo="true" ref="index">
@@ -338,7 +338,7 @@
     <file name="05_0011457b-crop-u8252.jpg" crc="3997818403" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="05_0011457b-crop-u825_2x2.jpg" crc="3760222212" seo="true" ref="index">
+    <file name="05_0011457b-crop-u825_2x2.jpg" crc="4125557126" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="llsc_fullcolor242x143.png" crc="3888380120" seo="true" ref="index">
@@ -418,7 +418,7 @@
     <file name="03__0010977-editb-crop-u24863.jpg" crc="308972835" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="03__0010977-editb-crop-u2486_2x3.jpg" crc="89316298" seo="true" ref="index">
+    <file name="03__0010977-editb-crop-u2486_2x3.jpg" crc="43691650" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="04_380 gfp-2x3-crop-u8453.jpg" crc="4134891173" seo="true" ref="index">
@@ -430,7 +430,7 @@
     <file name="05_0011457b-crop-u8253.jpg" crc="3997818403" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="05_0011457b-crop-u825_2x3.jpg" crc="3760222212" seo="true" ref="index">
+    <file name="05_0011457b-crop-u825_2x3.jpg" crc="4125557126" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blood stem cells-diagram665x630.png" crc="8570645" seo="true" ref="index">
@@ -592,7 +592,7 @@
     <file name="03__0010977-editb-crop-u24864.jpg" crc="308972835" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="03__0010977-editb-crop-u2486_2x4.jpg" crc="89316298" seo="true" ref="index">
+    <file name="03__0010977-editb-crop-u2486_2x4.jpg" crc="43691650" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="04_380 gfp-2x3-crop-u8454.jpg" crc="4134891173" seo="true" ref="index">
@@ -604,7 +604,7 @@
     <file name="05_0011457b-crop-u8254.jpg" crc="3997818403" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="05_0011457b-crop-u825_2x4.jpg" crc="3760222212" seo="true" ref="index">
+    <file name="05_0011457b-crop-u825_2x4.jpg" crc="4125557126" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blood stem cells-diagram-mobile-1.png" crc="157747192" seo="true" ref="index">
@@ -702,7 +702,7 @@
     <file name="03__0010977-editb-crop-u24865.jpg" crc="212025465" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="03__0010977-editb-crop-u2486_2x5.jpg" crc="4126019248" seo="true" ref="index">
+    <file name="03__0010977-editb-crop-u2486_2x5.jpg" crc="26209939" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="04_380 gfp-2x3-crop-u8455.jpg" crc="4115175355" seo="true" ref="index">
@@ -714,7 +714,7 @@
     <file name="05_0011457b-crop-u8255.jpg" crc="61960671" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="05_0011457b-crop-u825_2x5.jpg" crc="12965493" seo="true" ref="index">
+    <file name="05_0011457b-crop-u825_2x5.jpg" crc="144937300" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blood stem cells-diagram-mobile-1350x289.png" crc="4202246044" seo="true" ref="index">
@@ -1745,12 +1745,12 @@
       <caption webpage="3--disease-pathogenesis" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="39248242" seo="true" mt="1681137093451" redirect="true"/>
-  <file name="people.html" crc="360494728" seo="true" mt="1681062472619" redirect="true"/>
-  <file name="publications.html" crc="4013184976" seo="true" mt="1681081166435" redirect="true"/>
-  <file name="research.html" crc="4253438466" seo="true" mt="1660349186961" redirect="true"/>
-  <file name="contact.html" crc="4071469449" seo="true" mt="1681137636728" redirect="true"/>
-  <file name="1--oxidative-phosphorylation.html" crc="4183938877" seo="true" mt="1660615793210" redirect="true"/>
-  <file name="2--protein-modification.html" crc="457282192" seo="true" mt="1660350660390" redirect="true"/>
-  <file name="3--disease-pathogenesis.html" crc="417927626" seo="true" mt="1660350694375" redirect="true"/>
+  <file name="index.html" crc="350743257" seo="true" mt="1681137093451" redirect="true"/>
+  <file name="people.html" crc="277819731" seo="true" mt="1681062472619" redirect="true"/>
+  <file name="publications.html" crc="380131081" seo="true" mt="1681244970424" redirect="true"/>
+  <file name="research.html" crc="250205700" seo="true" mt="1660349186961" redirect="true"/>
+  <file name="contact.html" crc="384003077" seo="true" mt="1681137636728" redirect="true"/>
+  <file name="1--oxidative-phosphorylation.html" crc="4163884966" seo="true" mt="1660615793210" redirect="true"/>
+  <file name="2--protein-modification.html" crc="317358125" seo="true" mt="1660350660390" redirect="true"/>
+  <file name="3--disease-pathogenesis.html" crc="3896825947" seo="true" mt="1660350694375" redirect="true"/>
 </manifest>

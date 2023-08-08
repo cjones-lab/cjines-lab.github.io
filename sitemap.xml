@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://joneslab.org/index.html</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -33,10 +33,10 @@
       <image:loc>http://joneslab.org/images/04-jones_lab-research3_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/05-jones_lab-princess_margaret.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/05-jones_lab-contact_us.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/05-jones_lab-princess_margaret_2x.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/05-jones_lab-contact_us_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://joneslab.org/images/_0011037-editb-crop-u657.jpg</image:loc>
@@ -63,10 +63,10 @@
       <image:loc>http://joneslab.org/images/04_380%20gfp-2x3-crop-u845_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/05_0011457b-crop-u825.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/05-jones_lab-contact_us-crop-u825.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/05_0011457b-crop-u825_2x.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/05-jones_lab-contact_us-crop-u825_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://joneslab.org/images/blood%20stem%20cells-diagram688x653.png</image:loc>
@@ -183,10 +183,10 @@
       <image:loc>http://joneslab.org/images/04-jones_lab-research31093x729_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/05-jones_lab-princess_margaret1093x730.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/05-jones_lab-contact_us1093x730.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/05-jones_lab-princess_margaret1093x730_2x.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/05-jones_lab-contact_us1093x730_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://joneslab.org/images/_0011037-editb-crop-u6572.jpg</image:loc>
@@ -213,10 +213,10 @@
       <image:loc>http://joneslab.org/images/04_380%20gfp-2x3-crop-u845_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/05_0011457b-crop-u8252.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/05-jones_lab-contact_us-crop-u8252.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/05_0011457b-crop-u825_2x2.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/05-jones_lab-contact_us-crop-u825_2x2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://joneslab.org/images/llsc_fullcolor242x143.png</image:loc>
@@ -273,10 +273,10 @@
       <image:loc>http://joneslab.org/images/04-jones_lab-research3843x562_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/05-jones_lab-princess_margaret843x563.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/05-jones_lab-contact_us843x563.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/05-jones_lab-princess_margaret843x563_2x.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/05-jones_lab-contact_us843x563_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://joneslab.org/images/_0011037-editb-crop-u6573.jpg</image:loc>
@@ -303,10 +303,10 @@
       <image:loc>http://joneslab.org/images/04_380%20gfp-2x3-crop-u845_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/05_0011457b-crop-u8253.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/05-jones_lab-contact_us-crop-u8253.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/05_0011457b-crop-u825_2x3.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/05-jones_lab-contact_us-crop-u825_2x3.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://joneslab.org/images/blood%20stem%20cells-diagram665x630.png</image:loc>
@@ -411,10 +411,10 @@
       <image:loc>http://joneslab.org/images/04-jones_lab-research3600x400_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/05-jones_lab-princess_margaret600x400.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/05-jones_lab-contact_us600x400.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/05-jones_lab-princess_margaret600x400_2x.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/05-jones_lab-contact_us600x400_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://joneslab.org/images/_0011037-editb-crop-u6574.jpg</image:loc>
@@ -441,10 +441,10 @@
       <image:loc>http://joneslab.org/images/04_380%20gfp-2x3-crop-u845_2x4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/05_0011457b-crop-u8254.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/05-jones_lab-contact_us-crop-u8254.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/05_0011457b-crop-u825_2x4.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/05-jones_lab-contact_us-crop-u825_2x4.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://joneslab.org/images/blood%20stem%20cells-diagram-mobile-1.png</image:loc>
@@ -519,10 +519,10 @@
       <image:loc>http://joneslab.org/images/04-jones_lab-research3500x334_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/05-jones_lab-princess_margaret500x334.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/05-jones_lab-contact_us500x334.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/05-jones_lab-princess_margaret500x334_2x.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/05-jones_lab-contact_us500x334_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://joneslab.org/images/_0011037-editb-crop-u6575.jpg</image:loc>
@@ -549,10 +549,10 @@
       <image:loc>http://joneslab.org/images/04_380%20gfp-2x3-crop-u845_2x5.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/05_0011457b-crop-u8255.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/05-jones_lab-contact_us-crop-u8255.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://joneslab.org/images/05_0011457b-crop-u825_2x5.jpg</image:loc>
+      <image:loc>http://joneslab.org/images/05-jones_lab-contact_us-crop-u825_2x5.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://joneslab.org/images/blood%20stem%20cells-diagram-mobile-1350x289.png</image:loc>
@@ -575,7 +575,7 @@
   </url>
   <url>
     <loc>http://joneslab.org/people.html</loc>
-    <lastmod>2023-04-09</lastmod>
+    <lastmod>2023-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -761,7 +761,7 @@
   </url>
   <url>
     <loc>http://joneslab.org/publications.html</loc>
-    <lastmod>2023-04-11</lastmod>
+    <lastmod>2023-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -770,7 +770,7 @@
   </url>
   <url>
     <loc>http://joneslab.org/research.html</loc>
-    <lastmod>2022-08-12</lastmod>
+    <lastmod>2023-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -800,7 +800,7 @@
   </url>
   <url>
     <loc>http://joneslab.org/contact.html</loc>
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -836,7 +836,7 @@
   </url>
   <url>
     <loc>http://joneslab.org/1--oxidative-phosphorylation.html</loc>
-    <lastmod>2022-08-15</lastmod>
+    <lastmod>2023-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1013,7 +1013,7 @@
   </url>
   <url>
     <loc>http://joneslab.org/2--protein-modification.html</loc>
-    <lastmod>2022-08-12</lastmod>
+    <lastmod>2023-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1184,7 +1184,7 @@
   </url>
   <url>
     <loc>http://joneslab.org/3--disease-pathogenesis.html</loc>
-    <lastmod>2022-08-12</lastmod>
+    <lastmod>2023-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
